@@ -5,10 +5,10 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
 The project entails a structured execution across five distinct stages:
 
-**Step 1: Data Pre-Processing**
-**Step 2: Data Visualization**
-**Step 3: Time Series analysis using ARIMA**
-**Step 4: Fitting the ARIMA model**
-**Step 5: Validating the Model**
+  **Step 1: Data Pre-Processing**
+  **Step 2: Data Visualization**
+  **Step 3: Time Series analysis using ARIMA**
+  **Step 4: Fitting the ARIMA model**
+  **Step 5: Validating the Model**
 
 
